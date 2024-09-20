@@ -7,10 +7,11 @@
 	"inherits": "fdm_neptune_4_common",
 	"printer_model": "Elegoo Neptune 4 Pro",
 	"default_print_profile": "0.20mm Standard @Elegoo Neptune4Pro (0.2 nozzle)",
-	"host_type": "octoprint",
 	"gcode_flavor": "klipper",
+	"host_type": "octoprint",
 	"nozzle_diameter": ["0.2"],
 	"printer_variant": "0.2",
+	"default_filament_profile": ["Elegoo Generic PLA @0.2 nozzle"],
 	"printable_area": [
 		"5x5",
 		"230x5",
