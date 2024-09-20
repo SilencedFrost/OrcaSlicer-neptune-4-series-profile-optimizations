@@ -7,6 +7,7 @@
 	"inherits": "fdm_neptune_4_common",
 	"printer_model": "Elegoo Neptune 4",
 	"default_print_profile": "0.20mm Standard @Elegoo Neptune4 (0.6 nozzle)",
+	"host_type": "octoprint",
 	"gcode_flavor": "klipper",
 	"nozzle_diameter": ["0.6"],
 	"printer_variant": "0.6",
