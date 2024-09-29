@@ -3,7 +3,7 @@
 	"name": "Elegoo Rapid PETG",
 	"filament_settings_id": ["Elegoo Rapid PETG"],
 	"filament_id": "GFG100",
-	"setting_id": "GFSG100",
+	"setting_id": "GFSG99",
 	"filament_vendor": ["Elegoo"],
 	"inherits": "fdm_filament_pet",
 	"instantiation": "true",
