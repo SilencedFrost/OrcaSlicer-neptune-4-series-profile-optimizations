@@ -2,7 +2,7 @@
 	"name": "Elegoo PETG Pro",
 	"filament_settings_id": ["Elegoo PETG Pro"],
 	"filament_id": "GFG101",
-	"setting_id": "GFSG101",
+	"setting_id": "GFSG99",
 	"filament_vendor": ["Elegoo"],
 	"inherits": "fdm_filament_pet",
 	"instantiation": "true",

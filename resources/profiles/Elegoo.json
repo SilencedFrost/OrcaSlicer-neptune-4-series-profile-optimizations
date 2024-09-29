@@ -685,6 +685,14 @@
 			"sub_path": "filament/fdm_filament_abs.json"
 		},
 		{
+			"name": "fdm_filament_asa",
+			"sub_path": "filament/fdm_filament_asa.json"
+		},
+		{
+			"name": "Elegoo Generic ASA",
+			"sub_path": "filament/Elegoo Generic ASA.json"
+		},
+		{
 			"name": "fdm_filament_pet",
 			"sub_path": "filament/fdm_filament_pet.json"
 		},
